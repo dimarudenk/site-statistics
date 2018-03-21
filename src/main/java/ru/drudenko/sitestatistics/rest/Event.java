@@ -1,4 +1,4 @@
-package ru.drudenko.sitestatistics.services;
+package ru.drudenko.sitestatistics.rest;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

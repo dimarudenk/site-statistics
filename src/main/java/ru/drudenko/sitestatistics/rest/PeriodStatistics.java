@@ -1,4 +1,4 @@
-package ru.drudenko.sitestatistics.services;
+package ru.drudenko.sitestatistics.rest;
 
 public class PeriodStatistics extends CurrentStatistics {
     // Количество постоянных пользователей за указанный период

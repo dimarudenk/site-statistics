@@ -1,4 +1,4 @@
-package ru.drudenko.sitestatistics.services;
+package ru.drudenko.sitestatistics.rest;
 
 public class CurrentStatistics {
     //Общее количество посещений за текущие сутки
